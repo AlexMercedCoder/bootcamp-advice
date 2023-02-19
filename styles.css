@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    padding: 10px 10%;
+}
+
+h2 {
+    margin: 20px;
+    background-color: cadetblue;
+    color: white;
+}
+
+ul {
+    width: 90%;
+    max-width: 500px;
+    margin: auto;
+    text-align: left;
+}
