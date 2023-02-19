@@ -15,3 +15,10 @@ ul {
     margin: auto;
     text-align: left;
 }
+
+.youtube {
+    max-width: 560px;
+    max-height: 315px;
+    aspect-ratio: 16/9;
+    width: 100%;
+}
