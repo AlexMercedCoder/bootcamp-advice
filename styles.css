@@ -1,12 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;600&display=swap');
+
 body {
     text-align: center;
     padding: 10px 10%;
+    font-family: 'Golos Text', sans-serif;
+}
+
+h1 {
+    color: cadetblue;
+    margin: 30px;
 }
 
 h2 {
     margin: 20px;
     background-color: cadetblue;
     color: white;
+    padding: 6px;
+    border-radius: 3px;
 }
 
 ul {
@@ -21,4 +31,18 @@ ul {
     max-height: 315px;
     aspect-ratio: 16/9;
     width: 100%;
+}
+
+.body {
+    border-left: 3px solid burlywood;
+    border-right: 3px solid burlywood;
+    font-size: 1.1em;
+}
+
+p {
+    width: 40%;
+    margin: 25px auto;
+    min-width: 250px;
+    text-align: left;
+
 }
